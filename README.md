@@ -23,7 +23,7 @@ A company BoomBikes that runs a bike-sharing system they need to understand belo
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- boomBikes growth has increased by a great margin in 2019 compared to 2018, depicts company growth as year after another.
+- boomBikes growth has increased by a great margin in 2019 compared to 2018, depicts company growth year after another.
 - factors that increase the count of bookings : Year, Temperature, Summer, Winter and month of sepetember.
 - Factors that decrease the count of bookings : Light Snow or light Rain, Mist+Cloudy, Month of July and January, Holiday, High windspeed and humidity.
 - Top 5 Factors that affect customer count(in descending order) : Temperature, Light Snow or light Rain, year, Windspeed and humidity.

@@ -1,6 +1,6 @@
 # Project Name : BIKE SHARING CASE STUDY
 
-A company BoomBikes that runs a bike-sharing system they need to understand below factors to improve their business.
+A company BoomBikes that runs a bike-sharing system need to understand below factors to improve their business.
 
 - Which variables are significant in predicting the demand for shared bikes.
 - How well those variables describe the bike demands.
@@ -15,7 +15,7 @@ A company BoomBikes that runs a bike-sharing system they need to understand belo
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Project is based on helping a US based bike sharing provider BoomBikes have multiple bike share systems that allow people to borrow a bike from a dock and bike can then be returned to another dock belonging to the same system that faced loss in corona pandemic.
+- Project is based on helping a US based bike sharing provider BoomBikes that have multiple bike sharing systems allowing people to borrow a bike from a dock and bike can then be returned to another dock belonging to the same system that faced loss in corona pandemic.
 - The company want to understand which factors are significant in predicting demand of shared bikes and how well does those variables define the demand.
 - We used a multiple linear regression model to predict the demand of shared bikes and interpretation of factors that influence them.
 - We are using an excel file that contains time series data of 2018 and 2019 containing weather condition, temperature and other ambient factors, detailed related to workday, holiday, week and season on daily basis.
